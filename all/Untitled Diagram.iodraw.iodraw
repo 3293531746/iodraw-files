@@ -35,7 +35,7 @@
         <mxCell id="d-au1mseanBowxiOIIv0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d-au1mseanBowxiOIIv0-6" target="d-au1mseanBowxiOIIv0-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d-au1mseanBowxiOIIv0-91" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d-au1mseanBowxiOIIv0-32">
+        <mxCell id="d-au1mseanBowxiOIIv0-91" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d-au1mseanBowxiOIIv0-32">
           <mxGeometry x="-0.392" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -68,6 +68,11 @@
         </mxCell>
         <mxCell id="d-au1mseanBowxiOIIv0-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d-au1mseanBowxiOIIv0-31" target="d-au1mseanBowxiOIIv0-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d-au1mseanBowxiOIIv0-92" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d-au1mseanBowxiOIIv0-40">
+          <mxGeometry x="-0.312" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="d-au1mseanBowxiOIIv0-31" value="质量管理和公共卫生部负责人审批" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
