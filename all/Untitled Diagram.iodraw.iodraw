@@ -150,9 +150,14 @@
             <mxPoint x="60" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="d-au1mseanBowxiOIIv0-71" value="驳回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d-au1mseanBowxiOIIv0-67">
+          <mxGeometry x="-0.5715" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d-au1mseanBowxiOIIv0-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d-au1mseanBowxiOIIv0-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="750" as="targetPoint" />
+            <mxPoint x="400" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d-au1mseanBowxiOIIv0-64" value="科教信息分管领导审批" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
