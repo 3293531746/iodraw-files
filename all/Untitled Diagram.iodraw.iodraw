@@ -69,7 +69,12 @@
         </mxCell>
         <mxCell id="d-au1mseanBowxiOIIv0-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d-au1mseanBowxiOIIv0-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="420" as="targetPoint" />
+            <mxPoint x="60" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d-au1mseanBowxiOIIv0-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d-au1mseanBowxiOIIv0-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d-au1mseanBowxiOIIv0-39" value="医务部负责人审批" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
