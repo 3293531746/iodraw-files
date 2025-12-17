@@ -24,11 +24,14 @@
         <mxCell id="d-au1mseanBowxiOIIv0-8" value="流程结束" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d-au1mseanBowxiOIIv0-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d-au1mseanBowxiOIIv0-6" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="d-au1mseanBowxiOIIv0-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d-au1mseanBowxiOIIv0-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="210" as="sourcePoint" />
-            <mxPoint x="80" y="160" as="targetPoint" />
+            <mxPoint x="80" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d-au1mseanBowxiOIIv0-26" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
