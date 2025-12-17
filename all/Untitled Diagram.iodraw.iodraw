@@ -18,11 +18,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d-au1mseanBowxiOIIv0-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d-au1mseanBowxiOIIv0-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="d-au1mseanBowxiOIIv0-6" value="申请部门负责人审批" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -31,8 +26,8 @@
         </mxCell>
         <mxCell id="d-au1mseanBowxiOIIv0-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="330" as="sourcePoint" />
-            <mxPoint x="500" y="280" as="targetPoint" />
+            <mxPoint x="30" y="210" as="sourcePoint" />
+            <mxPoint x="80" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
