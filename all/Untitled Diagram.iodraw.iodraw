@@ -77,8 +77,8 @@
             <mxPoint x="400" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d-au1mseanBowxiOIIv0-45" value="不同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d-au1mseanBowxiOIIv0-44">
-          <mxGeometry x="-0.5242" y="3" relative="1" as="geometry">
+        <mxCell id="d-au1mseanBowxiOIIv0-46" value="不同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d-au1mseanBowxiOIIv0-44">
+          <mxGeometry x="-0.5242" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
