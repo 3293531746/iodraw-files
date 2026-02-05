@@ -66,6 +66,9 @@
         <mxCell id="mSqajVk30nbI0wNJ0miE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-17" target="mSqajVk30nbI0wNJ0miE-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mSqajVk30nbI0wNJ0miE-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-17" target="mSqajVk30nbI0wNJ0miE-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-17" value="第三阶段：向上报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="80" width="120" height="40" as="geometry" />
         </mxCell>
@@ -82,16 +85,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-23" value="市委网信办" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-25" target="mSqajVk30nbI0wNJ0miE-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-25" value="市委网信委" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-27" value="确认级别" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-14" target="mSqajVk30nbI0wNJ0miE-19">
           <mxGeometry relative="1" as="geometry">
@@ -104,6 +107,9 @@
         </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-19" value="南山区卫健局" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSqajVk30nbI0wNJ0miE-35" value="第三阶段：向上报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
