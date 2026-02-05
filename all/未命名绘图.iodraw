@@ -132,8 +132,14 @@
         <mxCell id="mSqajVk30nbI0wNJ0miE-41" value="南山区卫健局" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mSqajVk30nbI0wNJ0miE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-43" target="mSqajVk30nbI0wNJ0miE-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-43" value="市卫健委" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSqajVk30nbI0wNJ0miE-45" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
