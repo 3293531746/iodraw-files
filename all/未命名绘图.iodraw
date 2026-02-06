@@ -103,16 +103,6 @@
             <mxPoint x="620" y="490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o5bOLIljGHFRrsohslkQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="720" y="500" />
-              <mxPoint x="720" y="220" />
-              <mxPoint x="820" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-27" value="确认级别" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="470" width="120" height="60" as="geometry" />
         </mxCell>
@@ -146,15 +136,6 @@
         <mxCell id="mSqajVk30nbI0wNJ0miE-41" value="南山区卫健局" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mSqajVk30nbI0wNJ0miE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="820" y="590" />
-              <mxPoint x="821" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-43" value="市卫健委" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -162,17 +143,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="570" as="sourcePoint" />
             <mxPoint x="820" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mSqajVk30nbI0wNJ0miE-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mSqajVk30nbI0wNJ0miE-60" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="820" y="700" />
-              <mxPoint x="920" y="700" />
-              <mxPoint x="920" y="220" />
-              <mxPoint x="1020" y="220" />
-            </Array>
-            <mxPoint x="820" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mSqajVk30nbI0wNJ0miE-49" edge="1">
