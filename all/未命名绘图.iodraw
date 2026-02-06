@@ -142,15 +142,14 @@
         <mxCell id="mSqajVk30nbI0wNJ0miE-43" value="市卫健委" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mSqajVk30nbI0wNJ0miE-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="570" as="sourcePoint" />
-            <mxPoint x="820" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mSqajVk30nbI0wNJ0miE-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o5bOLIljGHFRrsohslkQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-49" value="确认结束" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
