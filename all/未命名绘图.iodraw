@@ -101,10 +101,8 @@
         <mxCell id="mSqajVk30nbI0wNJ0miE-21" value="市卫健委" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mSqajVk30nbI0wNJ0miE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="mSqajVk30nbI0wNJ0miE-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="490" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="wul77sxJK-1Nxxb2xHoB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-27" target="wul77sxJK-1Nxxb2xHoB-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-27" value="市委网信办" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
@@ -179,8 +177,8 @@
         <mxCell id="o5bOLIljGHFRrsohslkQ-12" value="提交报告" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="960" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wul77sxJK-1Nxxb2xHoB-1" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="wul77sxJK-1Nxxb2xHoB-3" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
