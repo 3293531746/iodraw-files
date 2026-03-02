@@ -183,12 +183,10 @@
         <mxCell id="wul77sxJK-1Nxxb2xHoB-3" value="市委网信委" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wul77sxJK-1Nxxb2xHoB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wul77sxJK-1Nxxb2xHoB-5" target="mSqajVk30nbI0wNJ0miE-49">
+        <mxCell id="wul77sxJK-1Nxxb2xHoB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="620" />
-              <mxPoint x="720" y="590" />
-            </Array>
+            <mxPoint x="670" y="620" as="sourcePoint" />
+            <mxPoint x="750" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wul77sxJK-1Nxxb2xHoB-5" value="确认级别" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
