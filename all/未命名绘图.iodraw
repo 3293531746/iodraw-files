@@ -146,6 +146,9 @@
         <mxCell id="wul77sxJK-1Nxxb2xHoB-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-49" target="wul77sxJK-1Nxxb2xHoB-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wul77sxJK-1Nxxb2xHoB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mSqajVk30nbI0wNJ0miE-49" target="wul77sxJK-1Nxxb2xHoB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mSqajVk30nbI0wNJ0miE-49" value="市委网信办" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="510" width="120" height="60" as="geometry" />
         </mxCell>
