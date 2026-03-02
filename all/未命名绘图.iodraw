@@ -179,8 +179,9 @@
         <mxCell id="wul77sxJK-1Nxxb2xHoB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wul77sxJK-1Nxxb2xHoB-5" target="wul77sxJK-1Nxxb2xHoB-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="210" />
-              <mxPoint x="820" y="210" />
+              <mxPoint x="720" y="620" />
+              <mxPoint x="720" y="220" />
+              <mxPoint x="820" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
